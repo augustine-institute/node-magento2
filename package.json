@@ -25,5 +25,6 @@
     "deepmerge": "^0.2.10",
     "qs": "^6.2.1",
     "request": "^2.75.0"
-  }
+  },
+  "typings": "./index.d.ts"
 }
